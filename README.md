@@ -4,9 +4,9 @@ Variant "o"
 
 File HW1_report.pdf contains solutions to all tasks from homework 1 including screenshots and code.
 
-Files 1A.slx and 1B.slx are simulink schemas with solutions to task 1.
+Files 1A.slx and 1B.slx are simulink schemas with solutions to task 1-A and 1-B.
 
-Files 1C.m and 1D.m are matlab files with solutions to task 1.
+Files 1C.m and 1D.m are matlab files with solutions to task 1-C and 1-D.
 
 ________________________________________________________________________________________________
 
