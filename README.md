@@ -24,7 +24,7 @@ Link for 5th task code (duplicated in pdf) https://colab.research.google.com/dri
 ________________________________________________________________________________________________
 
 
-Python version is deafault Python version provided by these cites.
+Python version is deafault Python version provided by repl.it and Google Colab
 
 My Matlab version: R2018a (9.4.0.813654) 
 My OS: Windows 10 x64
