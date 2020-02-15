@@ -8,14 +8,21 @@ Files 1A.slx and 1B.slx are simulink schemas with solutions to task 1.
 
 Files 1C.m and 1D.m are matlab files with solutions to task 1.
 
+________________________________________________________________________________________________
+
 For task 4 I used https://repl.it/ and Python language
 
 Link for 4th task code (duplicated in pdf) https://repl.it/repls/NavajowhiteDigitalProfessional
+
+________________________________________________________________________________________________
 
 For task 5 I used https://colab.research.google.com/notebooks/intro.ipynb#recent=true (it allows to make plots)
 
 
 Link for 5th task code (duplicated in pdf) https://colab.research.google.com/drive/10BoOVXyyugrwR0WKDw0ysiYhzHdx-Obe
+
+________________________________________________________________________________________________
+
 
 Python version is deafault Python version provided by these cites.
 
