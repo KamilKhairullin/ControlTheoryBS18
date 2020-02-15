@@ -1,4 +1,4 @@
-This repository contains materials regarding homework #1 in Control Theory at Innopolis University. BS18-02, 2020. Kamil Hayrullin.
+This repository contains materials regarding to homework #1 in Control Theory at Innopolis University. BS18-02, 2020. Kamil Hayrullin.
 
 Variant "o"
 
