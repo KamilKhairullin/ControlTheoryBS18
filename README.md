@@ -13,6 +13,7 @@ Files 2B.py is python file with solutions to task 2B.
 Files 2E_1.py and 2E_2.py are python files with solution to task 2E.
 (duplicated here https://colab.research.google.com/drive/10BB89eBCpZQ1NwnJCSZD_LrUSMV-Bnv7 and in pdf)
 
+Files 4_matlab.m and 4_control_system_designer.mat are matlab files with solution to task 4
 Python version is deafault Python version provided Google Colab
 
 My Matlab version: R2018a (9.4.0.813654) My OS: Windows 10 x64
