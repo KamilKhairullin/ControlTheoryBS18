@@ -2,7 +2,7 @@ This repository contains materials regarding to homework #3 in Control Theory at
 
 Variant "e"
 
-File HW3_report.pdf contains solutions to all tasks from homework 3 including screenshots and links to code.
+File HW_3_report.pdf contains solutions to all tasks from homework 3 including screenshots and links to code.
 
 Files 2A_1.py and 2A_2.py are python files with solution to task 2A.
 (duplicated here https://colab.research.google.com/drive/191tTxpWbItXfqW1uWWrVPHv9lDNCEuMR and in pdf)
