@@ -2,7 +2,7 @@ This repository contains materials regarding to homework #5 in Control Theory at
 
 Variant "b"
 
-File CT_HW_5.pdf contains solutions to all tasks from homework 5 including screenshots and links to code.
+File ControlTheory_HW_05 (1).pdf contains solutions to all tasks from homework 5 including screenshots and links to code.
 
 File B.m contains solution for task B
 File D.py contains solution for task G
